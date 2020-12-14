@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="generic_error">There was an error!</string>
+    <string name="try_again">Try again</string>
+    <string name="address">Address:</string>
+    <string name="eth_balance">ETH Balance:</string>
+    <string name="erc_20_tokens">ERC 20 Tokens</string>
+    <string name="type_here">Type here</string>
+</resources>

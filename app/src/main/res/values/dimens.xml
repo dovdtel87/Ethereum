@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">5dp</dimen>
+    <dimen name="margins_lists">16dp</dimen>
+    <dimen name="vertical_margins_list">8dp</dimen>
+    <dimen name="guide_lines_margins">8dp</dimen>
+</resources>
