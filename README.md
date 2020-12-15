@@ -67,8 +67,8 @@ Around 6 to 8 hours.
 ###  What would you improve if you had more time?
 I would provide more coverage for testing
 I would improve the designs and the cache.
-I would formmat diferently the balance for the 0.00 case in the second screen
+I would formmat differently the balance for the 0.00 case in the second screen
 ###  What would you like to highlight in the code?
-I have resumed in the intro of the Readme the main points of the code, but basically I wanted to show a clean code architecture where other features can be built on top.
+I have summarized in the intro of the Readme the main points of the code, but basically I wanted to show a clean code architecture where other features can be built on top.
 ###  If you had to store the private key associated with an ethereum account on an android device, how would you make that storage secure?
 I would used `EncrypedSharedPreference` from the Security library
